@@ -1,0 +1,5 @@
+Requirements for use:
+
+pandas (pandas.pydata.org)
+nibabel (http://nipy.org/nibabel/)
+sci-kit-learn (http://scikit-learn.org/stable/)
