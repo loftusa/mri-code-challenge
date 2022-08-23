@@ -1,4 +1,4 @@
-# Repository for Vogelstein code challenge.
+# FMRI Analysis Challenge.
 - **main-analysis.ipynb:** the main notebook.
 - **Learning-random-forests.ipynb:** playground notebook for going through tutorials and understanding stuff.
 - **code-challenge.pdf:** project instructions for easy access.
